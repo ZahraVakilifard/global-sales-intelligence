@@ -118,5 +118,8 @@ High-level performance snapshot:
 
 ---
 
-## Author
-Built as a professional portfolio project to demonstrate advanced Power BI and analytical skills.
+**Zahra Vakilifard**    
+
+- GitHub: https://github.com/ZahraVakilifard
+- LinkedIn: https://www.linkedin.com/in/zahravakilifard
+
