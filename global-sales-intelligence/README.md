@@ -72,7 +72,7 @@ Data validation layer for trust:
 - Sales by year, category, region
 - Key numeric cross-checks
 
-![Sanity Checks](images/pages/sanity_checks)
+![Sanity Checks](images/pages/sanity_checks.png)
 
 ### 2. Executive Overview
 High-level performance snapshot:
@@ -167,6 +167,7 @@ High-level performance snapshot:
 
 - GitHub: https://github.com/ZahraVakilifard
 - LinkedIn: https://www.linkedin.com/in/zahravakilifard
+
 
 
 
