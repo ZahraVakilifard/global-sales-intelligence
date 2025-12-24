@@ -72,6 +72,8 @@ Data validation layer for trust:
 - Sales by year, category, region
 - Key numeric cross-checks
 
+![Sanity Checks](images/pages/sanity_checks)
+
 ### 2. Executive Overview
 High-level performance snapshot:
 - Total Sales: **3.39B**
@@ -80,26 +82,35 @@ High-level performance snapshot:
 - Customer Count: **14.02M**
 - Trend analysis and top regions
 
+![Executive Overview](images/pages/executive_overview.png)
+
 ### 3. Revenue & Margin Deep Dive
 - Channel-level revenue trends
 - Category & subcategory performance
 - Profit waterfall analysis
+
+![Revenue & Margin Deep Dive](images/pages/revenue_margin.png)
 
 ### 4. Product Detail
 - Single-product drilldown
 - Sales, profit, margin trend
 - Transaction-level breakdown
 
+![Product Detail](images/pages/product_detail.png)
+
 ### 5. Geographic Performance
 - Regional and city-level analysis
 - Sales, profit, quantity by location
 - Interactive map with drilldowns
+
+![Geographic Performance](images/pages/geo_performance.png)
 
 ### 6. Product Portfolio
 - Category & product comparison
 - Margin vs volume positioning
 - Trend analysis by product
 
+![Product Portfolio](images/pages/product_portfolio.png)
 ---
 
 ## Results & Key Insights
@@ -156,5 +167,6 @@ High-level performance snapshot:
 
 - GitHub: https://github.com/ZahraVakilifard
 - LinkedIn: https://www.linkedin.com/in/zahravakilifard
+
 
 
