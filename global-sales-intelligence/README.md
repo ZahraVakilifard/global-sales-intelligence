@@ -102,6 +102,40 @@ High-level performance snapshot:
 
 ---
 
+## Results & Key Insights
+
+### Overall Performance
+- Total Sales reached **$3.39B**, with a **Net Profit of $27.5M**.
+- Overall **Profit Margin is 11%**, indicating tight margins despite high revenue.
+- Rolling 12-month sales show steady growth with seasonal spikes.
+
+### Regional Performance
+- Top 3 regions contribute over **60% of total sales**.
+- Some high-revenue regions operate at **below-average profit margins**, highlighting cost or discount inefficiencies.
+- City-level drill-downs reveal concentrated sales dependency in a small number of markets.
+
+### Product Portfolio
+- A small subset of products generates the majority of revenue (Pareto effect).
+- Several high-volume products operate at **negative or near-zero margins**, creating profit risk.
+- Product categories show significantly different margin profiles despite similar sales volumes.
+
+### Channel & Discount Analysis
+- Shipping and discount costs materially reduce net profitability.
+- Certain ship modes drive higher sales but at increased shipping cost.
+- Waterfall analysis shows how sales degrade into net profit across cost layers.
+
+### Data Validation
+- Sanity check page confirms alignment between transactional totals and aggregated KPIs.
+- Customer counts, sales totals, and quantities reconcile across fact and dimension views.
+- This ensures the analytical outputs are reliable and audit-ready.
+
+### Business Recommendations
+- Review pricing and discount strategy for consistently unprofitable products.
+- Optimize shipping methods in regions with high logistics cost.
+- Focus growth efforts on high-margin categories rather than volume-only sales.
+
+---
+
 ## How to Open
 
 1. Download the repository
@@ -122,4 +156,5 @@ High-level performance snapshot:
 
 - GitHub: https://github.com/ZahraVakilifard
 - LinkedIn: https://www.linkedin.com/in/zahravakilifard
+
 
